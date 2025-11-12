@@ -29,8 +29,8 @@ A Python-based ReAct (Reasoning and Acting) agent that combines language model r
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
-cd react-agent
+git clone <https://github.com/abcxyz91/ReAct_agent_from_scratch>
+cd ReAct_agent_from_scratch
 ```
 
 2. **Create a virtual environment**
@@ -157,7 +157,7 @@ start htmlcov/index.html  # Windows
 ## 📁 Project Structure
 
 ```
-react-agent/
+ReAct_agent_from_scratch/
 │
 ├── main.py              # Main agent class and execution loop
 ├── system_prompt.py     # ReAct system prompt and examples
@@ -268,10 +268,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
