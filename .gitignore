@@ -1,0 +1,9 @@
+.env
+TODO.md
+.venv/
+__pycache__/
+.pytest_cache/
+main_example.py
+tools_example.py
+system_prompt_example.py
+logs.txt
